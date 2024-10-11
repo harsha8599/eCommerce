@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+}
+.navbar-brand{
+    width:20%;
+}
+.nav-link{
+    color: #0fd70fb6 !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    border: 2px solid #014501;
+}
+/* home */
+.bgimg{
+    background-image: url('https://t4.ftcdn.net/jpg/07/65/25/39/360_F_765253951_OEllMYB96ZIVVYfMKzDYsDbb6i8HPnxz.jpg');
+    width: 100vw;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+.hhead{
+    color: white;
+    text-shadow:  1px 2px 3px black;
+    font-size: 60px;
+}
+.hbtn{
+    font-size: 20px;
+}
+/* about */
+.heading{
+    color: green;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.ahead{
+    color: #58e039a2;
+}
+.apara{
+    color: #199219;
+}
+.carousel-item img{
+    aspect-ratio: 3/2;
+    width: 50%;
+}
+
+/* payment */
+.input-group-text{
+    background-color: #199219;
+    color: white;
+}
+.pbtn{
+    font-weight: bold;
+}
+/* contact */
+.form-lable{
+    color: green;
+}
+/* footer */
+.footer{
+    background-color: #199219;
+}
+.fhead{
+    color:white;
+    text-transform: capitalize;
+    text-decoration: underline 3px solid greenyellow;
+    font-size:30px;
+}
+h4,h6{
+    color:white;
+    font-weight:400;
+}
+icons{
+    color:white;
+    font-size:27px;
+}
